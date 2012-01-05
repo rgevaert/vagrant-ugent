@@ -2,7 +2,7 @@ You can use this git repo to setup a generic UGent Debian machine.
 
 Make sure you have Vagrant installed and working.
 
-$ git@github.com:rgevaert/vagrant-ugent.git
+$ git clone git@github.com:rgevaert/vagrant-ugent.git
 $ cd vagrant-ugent
 $ vagrant up
 $ vagrant ssh
